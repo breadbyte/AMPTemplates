@@ -1,9 +1,10 @@
 {
-	"id": "a7ece6cc-aba4-4d28-82fb-9b2bde23fb43",
-	"authors": ["breadbyte"],
-	"origin": "https://github.com/breadbyte/AMPTemplates.git",
-	"url": "https://github.com/breadbyte/AMPTemplates",
-	"imagefile": "",
-	"prefix": "",
-	"repotype": "AppTemplates"
+    "id": "5fef6904-6aa7-4524-a01c-74ce8e49cc6f",
+    "authors": [
+        " - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/ - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/ - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": " - Made with AMP Config Generator"
 }
